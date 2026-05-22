@@ -10,16 +10,38 @@ OUTPUT_DIR=$BASE_DIR/Reference
 # Create the output directory if it does not exist
 mkdir -p $OUTPUT_DIR
 
-# Calculate md5sum of the new cave data
+transform_data() {
+  jq 'def map_category(type; name):
+        if type == "bossAltar" then "boss_altar"
+        elif type == "lootrunCamp" then "lootrun"
+        else type
+        end;
+
+      map({
+        featureId: (.name | gsub(" "; "-") | gsub("[^a-zA-Z0-9\\-]+"; "") | ascii_downcase),
+        categoryId: ("wynntils:content:" + map_category(.type; .name)),
+        attributes: (if .requirements.level then {
+            label: .name,
+            level: .requirements.level
+        } else {
+            label: .name
+        } end),
+        location: (.location // .coordinates)
+    })'
+}
+
+primary_data=$(cat $CONTENT_DIR/raw/content/content_book_dump.json | jq '[
+.cave[]
+]' | transform_data)
+
+echo "$primary_data" > $OUTPUT_DIR/content_mapfeatures.json
+
 MD5=$(md5sum $OUTPUT_DIR/content_mapfeatures.json | cut -d' ' -f1)
 
-# Update urls.json with the new md5sum for dataStaticCombatMapFeatures
 jq '. = [.[] | if (.id == "dataStaticContentMapFeatures") then (.md5 = "'$MD5'") else . end]' < $BASE_DIR/Data-Storage/urls.json > $BASE_DIR/Data-Storage/urls.json.tmp
 mv $BASE_DIR/Data-Storage/urls.json.tmp $BASE_DIR/Data-Storage/urls.json
 
-# Calculate md5sum of the new cave data
 MD5=$(md5sum $CONTENT_DIR/content_locations.json | cut -d' ' -f1)
 
-# Update urls.json with the new md5sum for dataStaticCombatMapFeatures
 jq '. = [.[] | if (.id == "dataStaticContentLocations") then (.md5 = "'$MD5'") else . end]' < $BASE_DIR/Data-Storage/urls.json > $BASE_DIR/Data-Storage/urls.json.tmp
 mv $BASE_DIR/Data-Storage/urls.json.tmp $BASE_DIR/Data-Storage/urls.json
