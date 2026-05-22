@@ -112,12 +112,6 @@
     "url": "https://cdn.wynntils.com/static/Reference/aspects.json"
   },
   {
-    "id": "dataStaticCaveInfo",
-    "md5": "ef98c782956bef8cff07700b51c2bda4",
-    "path": "Reference/caves.json",
-    "url": "https://cdn.wynntils.com/static/Reference/caves.json"
-  },
-  {
     "id": "dataStaticCharms",
     "md5": "7d9c175c4a13f154eabb8cf77af1cb82",
     "path": "Reference/charms.json",
