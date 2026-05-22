@@ -119,13 +119,13 @@
   },
   {
     "id": "dataStaticContentLocations",
-    "md5": "57b36dde96c37d0d11f1a9282c9acc4e",
+    "md5": "d9c7bfbe6820b60caf5e4ef0390c646c",
     "path": "Data-Storage/content_locations.json",
     "url": "https://cdn.wynntils.com/static/Data-Storage/content_locations.json"
   },
   {
     "id": "dataStaticContentMapFeatures",
-    "md5": "ee89b0b1314b87265bf1660d1e7c8c60",
+    "md5": "31eab22238afe4d7f66e291eeecfbb71",
     "path": "Reference/content_mapfeatures.json",
     "url": "https://cdn.wynntils.com/static/Reference/content_mapfeatures.json"
   },
