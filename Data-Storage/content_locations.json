@@ -1,3 +1,15 @@
 [
-    
+    {
+        "type": "Caves",
+        "locations": [
+            {
+                "name": "Cave",
+                "coordinates": {
+                    "x": -1900,
+                    "y": 102,
+                    "z": -1100
+                }
+            }
+        ]
+    }
 ]
