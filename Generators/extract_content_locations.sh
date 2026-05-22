@@ -10,31 +10,24 @@ OUTPUT_DIR=$BASE_DIR/Reference
 # Create the output directory if it does not exist
 mkdir -p $OUTPUT_DIR
 
-transform_data() {
-  jq 'def map_category(type; name):
-        if type == "bossAltar" then "boss_altar"
-        elif type == "lootrunCamp" then "lootrun"
-        else type
-        end;
+# transform_data() {
+#   jq 'def map_category(type; name):
+#         if type == "bossAltar" then "boss_altar"
+#         elif type == "lootrunCamp" then "lootrun"
+#         else type
+#         end;
 
-      map({
-        featureId: (.name | gsub(" "; "-") | gsub("[^a-zA-Z0-9\\-]+"; "") | ascii_downcase),
-        categoryId: ("wynntils:content:" + map_category(.type; .name)),
-        attributes: (if .requirements.level then {
-            label: .name,
-            level: .requirements.level
-        } else {
-            label: .name
-        } end),
-        location: (.location // .coordinates)
-    })'
-}
+#       map({
+#         name: .name,
+#         coordinates: (.location // .coordinates)
+#     })'
+# }
 
-primary_data=$(cat $CONTENT_DIR/raw/content/content_book_dump.json | jq '[
-.cave[]
-]' | transform_data)
+# primary_data=$(cat $CONTENT_DIR/raw/content/content_book_dump.json | jq '[
+# .cave[]
+# ]' | transform_data)
 
-echo "$primary_data" > $OUTPUT_DIR/content_mapfeatures.json
+# echo "$primary_data" > $OUTPUT_DIR/content_mapfeatures.json
 
 MD5=$(md5sum $OUTPUT_DIR/content_mapfeatures.json | cut -d' ' -f1)
 
