@@ -5,1563 +5,2720 @@
             {
                 "name": "Abandoned Steelworks",
                 "coordinates": {
-                "x": -1832,
-                "y": 33,
-                "z": -794
+                    "x": -1832,
+                    "y": 33,
+                    "z": -794
                 }
             },
             {
                 "name": "Abyssal Shine",
                 "coordinates": {
-                "x": 604,
-                "y": 31,
-                "z": -5074
+                    "x": 604,
+                    "y": 31,
+                    "z": -5074
                 }
             },
             {
                 "name": "Aelumia Chemical Plant",
                 "coordinates": {
-                "x": -1510,
-                "y": 133,
-                "z": -753
+                    "x": -1510,
+                    "y": 133,
+                    "z": -753
                 }
             },
             {
                 "name": "Aelumia Metalmill",
                 "coordinates": {
-                "x": -1500,
-                "y": 131,
-                "z": -808
+                    "x": -1500,
+                    "y": 131,
+                    "z": -808
                 }
             },
             {
                 "name": "Aelumia Weaveworks",
                 "coordinates": {
-                "x": -1523,
-                "y": 132,
-                "z": -737
+                    "x": -1523,
+                    "y": 132,
+                    "z": -737
                 }
             },
             {
                 "name": "Ancestor Grotto",
                 "coordinates": {
-                "x": -628,
-                "y": 49,
-                "z": -1953
+                    "x": -628,
+                    "y": 49,
+                    "z": -1953
                 }
             },
             {
                 "name": "Ancient Arthropods",
                 "coordinates": {
-                "x": -2058,
-                "y": 25,
-                "z": -1479
+                    "x": -2058,
+                    "y": 25,
+                    "z": -1479
                 }
             },
             {
                 "name": "Angel Falls",
                 "coordinates": {
-                "x": 1026,
-                "y": 110,
-                "z": -4697
+                    "x": 1026,
+                    "y": 110,
+                    "z": -4697
                 }
             },
             {
                 "name": "Aquaculture Aquifer",
                 "coordinates": {
-                "x": -1930,
-                "y": 84,
-                "z": -3325
+                    "x": -1930,
+                    "y": 84,
+                    "z": -3325
                 }
             },
             {
                 "name": "Auburn Lumbermill",
                 "coordinates": {
-                "x": -1836,
-                "y": 11,
-                "z": -1035
+                    "x": -1836,
+                    "y": 11,
+                    "z": -1035
                 }
             },
             {
                 "name": "Avos Animation Totem",
                 "coordinates": {
-                "x": -1759,
-                "y": 38,
-                "z": -2450
+                    "x": -1759,
+                    "y": 38,
+                    "z": -2450
                 }
             },
             {
                 "name": "Azer Athenaeum",
                 "coordinates": {
-                "x": 1511,
-                "y": 49,
-                "z": -5176
+                    "x": 1511,
+                    "y": 49,
+                    "z": -5176
                 }
             },
             {
                 "name": "Azurite Island",
                 "coordinates": {
-                "x": 953,
-                "y": 142,
-                "z": -4761
+                    "x": 953,
+                    "y": 142,
+                    "z": -4761
                 }
             },
             {
                 "name": "Bandit Groundbreaking",
                 "coordinates": {
-                "x": -287,
-                "y": 46,
-                "z": -5552
+                    "x": -287,
+                    "y": 46,
+                    "z": -5552
                 }
             },
             {
                 "name": "Basalt Basin",
                 "coordinates": {
-                "x": -557,
-                "y": 32,
-                "z": -460
+                    "x": -557,
+                    "y": 32,
+                    "z": -460
                 }
             },
             {
                 "name": "Bird Sanctuary",
                 "coordinates": {
-                "x": -928,
-                "y": 31,
-                "z": -410
+                    "x": -928,
+                    "y": 31,
+                    "z": -410
                 }
             },
             {
                 "name": "Blaze Springs",
                 "coordinates": {
-                "x": 828,
-                "y": 49,
-                "z": -5353
+                    "x": 828,
+                    "y": 49,
+                    "z": -5353
                 }
             },
             {
                 "name": "Blazing Oasis",
                 "coordinates": {
-                "x": 924,
-                "y": 76,
-                "z": -1349
+                    "x": 924,
+                    "y": 76,
+                    "z": -1349
                 }
             },
             {
                 "name": "Blind Burrow",
                 "coordinates": {
-                "x": 1393,
-                "y": 164,
-                "z": -1055
+                    "x": 1393,
+                    "y": 164,
+                    "z": -1055
                 }
             },
             {
                 "name": "Boar Burrow",
                 "coordinates": {
-                "x": -227,
-                "y": 57,
-                "z": -2097
+                    "x": -227,
+                    "y": 57,
+                    "z": -2097
                 }
             },
             {
                 "name": "Bovine Bedrock",
                 "coordinates": {
-                "x": -608,
-                "y": 49,
-                "z": -4904
+                    "x": -608,
+                    "y": 49,
+                    "z": -4904
                 }
             },
             {
                 "name": "Breaking Ice",
                 "coordinates": {
-                "x": -134,
-                "y": 74,
-                "z": -797
+                    "x": -134,
+                    "y": 74,
+                    "z": -797
                 }
             },
             {
                 "name": "Broodmother's Bestiary",
                 "coordinates": {
-                "x": 645,
-                "y": 92,
-                "z": -5328
+                    "x": 645,
+                    "y": 92,
+                    "z": -5328
                 }
             },
             {
                 "name": "Builder-Bot Central",
                 "coordinates": {
-                "x": -1674,
-                "y": 53,
-                "z": -3060
+                    "x": -1674,
+                    "y": 53,
+                    "z": -3060
                 }
             },
             {
                 "name": "Burning Bog",
                 "coordinates": {
-                "x": -411,
-                "y": 38,
-                "z": -5205
+                    "x": -411,
+                    "y": 38,
+                    "z": -5205
                 }
             },
             {
                 "name": "Burning Delve",
                 "coordinates": {
-                "x": 346,
-                "y": 35,
-                "z": -4606
+                    "x": 346,
+                    "y": 35,
+                    "z": -4606
                 }
             },
             {
                 "name": "Caged Creatures",
                 "coordinates": {
-                "x": 1134,
-                "y": 136,
-                "z": -1121
+                    "x": 1134,
+                    "y": 136,
+                    "z": -1121
                 }
             },
             {
                 "name": "Captain's Quarters",
                 "coordinates": {
-                "x": 561,
-                "y": 39,
-                "z": -2085
+                    "x": 561,
+                    "y": 39,
+                    "z": -2085
                 }
             },
             {
                 "name": "Carnadile Den",
                 "coordinates": {
-                "x": -725,
-                "y": 65,
-                "z": -731
+                    "x": -725,
+                    "y": 65,
+                    "z": -731
                 }
             },
             {
                 "name": "Cave Springs",
                 "coordinates": {
-                "x": 310,
-                "y": 60,
-                "z": -1851
+                    "x": 310,
+                    "y": 60,
+                    "z": -1851
                 }
             },
             {
                 "name": "Cave of Doom",
                 "coordinates": {
-                "x": 1405,
-                "y": 29,
-                "z": -5067
+                    "x": 1405,
+                    "y": 29,
+                    "z": -5067
                 }
             },
             {
                 "name": "Cave of the Seasons",
                 "coordinates": {
-                "x": -864,
-                "y": 52,
-                "z": -6131
+                    "x": -864,
+                    "y": 52,
+                    "z": -6131
                 }
             },
             {
                 "name": "Chiseler's Cavern",
                 "coordinates": {
-                "x": 622,
-                "y": 32,
-                "z": -4695
+                    "x": 622,
+                    "y": 32,
+                    "z": -4695
                 }
             },
             {
                 "name": "Citadel Catacombs",
                 "coordinates": {
-                "x": -1505,
-                "y": 80,
-                "z": -733
+                    "x": -1505,
+                    "y": 80,
+                    "z": -733
                 }
             },
             {
                 "name": "Colossi Infection",
                 "coordinates": {
-                "x": 323,
-                "y": 69,
-                "z": -4633
+                    "x": 323,
+                    "y": 69,
+                    "z": -4633
                 }
             },
             {
                 "name": "Corkus Quarry",
                 "coordinates": {
-                "x": -1365,
-                "y": 94,
-                "z": -2736
+                    "x": -1365,
+                    "y": 94,
+                    "z": -2736
                 }
             },
             {
                 "name": "Corrupt Time Warp",
                 "coordinates": {
-                "x": -332,
-                "y": 69,
-                "z": -1301
+                    "x": -332,
+                    "y": 69,
+                    "z": -1301
                 }
             },
             {
                 "name": "Corrupted Passageway",
                 "coordinates": {
-                "x": -497,
-                "y": 69,
-                "z": -1630
+                    "x": -497,
+                    "y": 69,
+                    "z": -1630
                 }
             },
             {
                 "name": "Corruption Mines",
                 "coordinates": {
-                "x": 170,
-                "y": 71,
-                "z": -1187
+                    "x": 170,
+                    "y": 71,
+                    "z": -1187
                 }
             },
             {
                 "name": "Crab Fighters",
                 "coordinates": {
-                "x": -799,
-                "y": 40,
-                "z": -1965
+                    "x": -799,
+                    "y": 40,
+                    "z": -1965
                 }
             },
             {
                 "name": "Cryovern Covert",
                 "coordinates": {
-                "x": 1526,
-                "y": 68,
-                "z": -5427
+                    "x": 1526,
+                    "y": 68,
+                    "z": -5427
                 }
             },
             {
                 "name": "Crypt Excavation",
                 "coordinates": {
-                "x": -32,
-                "y": 70,
-                "z": -1432
+                    "x": -32,
+                    "y": 70,
+                    "z": -1432
                 }
             },
             {
                 "name": "Crystal Caverns",
                 "coordinates": {
-                "x": 1120,
-                "y": 76,
-                "z": -2177
+                    "x": 1120,
+                    "y": 76,
+                    "z": -2177
                 }
             },
             {
                 "name": "Crystalline Polynya",
                 "coordinates": {
-                "x": 1203,
-                "y": 37,
-                "z": -2937
+                    "x": 1203,
+                    "y": 37,
+                    "z": -2937
                 }
             },
             {
                 "name": "Cultists Passage",
                 "coordinates": {
-                "x": -1261,
-                "y": 46,
-                "z": -4460
+                    "x": -1261,
+                    "y": 46,
+                    "z": -4460
                 }
             },
             {
                 "name": "Cyclonic Spirit Trap",
                 "coordinates": {
-                "x": 600,
-                "y": 40,
-                "z": -5266
+                    "x": 600,
+                    "y": 40,
+                    "z": -5266
                 }
             },
             {
                 "name": "Cyclopes' Shrine",
                 "coordinates": {
-                "x": 51,
-                "y": 47,
-                "z": -4456
+                    "x": 51,
+                    "y": 47,
+                    "z": -4456
                 }
             },
             {
                 "name": "Demolition Derby",
                 "coordinates": {
-                "x": 590,
-                "y": 30,
-                "z": -4625
+                    "x": 590,
+                    "y": 30,
+                    "z": -4625
                 }
             },
             {
                 "name": "Derelict Mine",
                 "coordinates": {
-                "x": -627,
-                "y": 73,
-                "z": -1760
+                    "x": -627,
+                    "y": 73,
+                    "z": -1760
                 }
             },
             {
                 "name": "Deserter's Camp",
                 "coordinates": {
-                "x": 499,
-                "y": 80,
-                "z": -5299
+                    "x": 499,
+                    "y": 80,
+                    "z": -5299
                 }
             },
             {
                 "name": "Detlas Salt Mine",
                 "coordinates": {
-                "x": 21,
-                "y": 64,
-                "z": -1767
+                    "x": 21,
+                    "y": 64,
+                    "z": -1767
                 }
             },
             {
                 "name": "Dragon Delta",
                 "coordinates": {
-                "x": 1259,
-                "y": 48,
-                "z": -5343
+                    "x": 1259,
+                    "y": 48,
+                    "z": -5343
                 }
             },
             {
                 "name": "Dragonkin Nest",
                 "coordinates": {
-                "x": 1464,
-                "y": 173,
-                "z": -5529
+                    "x": 1464,
+                    "y": 173,
+                    "z": -5529
                 }
             },
             {
                 "name": "Drone's Retreat",
                 "coordinates": {
-                "x": 235,
-                "y": 126,
-                "z": -5423
+                    "x": 235,
+                    "y": 126,
+                    "z": -5423
                 }
             },
             {
                 "name": "Dullahan Gardens",
                 "coordinates": {
-                "x": -1132,
-                "y": 83,
-                "z": -5684
+                    "x": -1132,
+                    "y": 83,
+                    "z": -5684
                 }
             },
             {
                 "name": "Dust Bowl",
                 "coordinates": {
-                "x": 1003,
-                "y": 74,
-                "z": -1704
+                    "x": 1003,
+                    "y": 74,
+                    "z": -1704
                 }
             },
             {
                 "name": "Earth Eaters",
                 "coordinates": {
-                "x": -1388,
-                "y": 46,
-                "z": -4981
+                    "x": -1388,
+                    "y": 46,
+                    "z": -4981
                 }
             },
             {
                 "name": "Electrifying Outpost",
                 "coordinates": {
-                "x": -1916,
-                "y": 25,
-                "z": -1198
+                    "x": -1916,
+                    "y": 25,
+                    "z": -1198
                 }
             },
             {
                 "name": "Elemental Hollow",
                 "coordinates": {
-                "x": -1110,
-                "y": 48,
-                "z": -5290
+                    "x": -1110,
+                    "y": 48,
+                    "z": -5290
                 }
             },
             {
                 "name": "Emerald Knives Hideout",
                 "coordinates": {
-                "x": 1338,
-                "y": 80,
-                "z": -1705
+                    "x": 1338,
+                    "y": 80,
+                    "z": -1705
                 }
             },
             {
                 "name": "Entozoon Takeover",
                 "coordinates": {
-                "x": -1186,
-                "y": 49,
-                "z": -640
+                    "x": -1186,
+                    "y": 49,
+                    "z": -640
                 }
             },
             {
                 "name": "Estalis Gallery",
                 "coordinates": {
-                "x": -1323,
-                "y": 82,
-                "z": -912
+                    "x": -1323,
+                    "y": 82,
+                    "z": -912
                 }
             },
             {
                 "name": "Eyeball Gauntlet",
                 "coordinates": {
-                "x": 1088,
-                "y": 138,
-                "z": -345
+                    "x": 1088,
+                    "y": 138,
+                    "z": -345
                 }
             },
             {
                 "name": "Fallen Passage",
                 "coordinates": {
-                "x": 1301,
-                "y": 87,
-                "z": -2144
+                    "x": 1301,
+                    "y": 87,
+                    "z": -2144
                 }
             },
             {
                 "name": "Fallen Salient",
                 "coordinates": {
-                "x": -956,
-                "y": 44,
-                "z": -525
+                    "x": -956,
+                    "y": 44,
+                    "z": -525
                 }
             },
             {
                 "name": "Fire & Water",
                 "coordinates": {
-                "x": -524,
-                "y": 63,
-                "z": -1711
+                    "x": -524,
+                    "y": 63,
+                    "z": -1711
                 }
             },
             {
                 "name": "Fire Swamp",
                 "coordinates": {
-                "x": -2098,
-                "y": 60,
-                "z": -5117
+                    "x": -2098,
+                    "y": 60,
+                    "z": -5117
                 }
             },
             {
                 "name": "Flesh Mesh",
                 "coordinates": {
-                "x": -751,
-                "y": 39,
-                "z": -5503
+                    "x": -751,
+                    "y": 39,
+                    "z": -5503
                 }
             },
             {
                 "name": "Forgotten Excavation",
                 "coordinates": {
-                "x": 987,
-                "y": 68,
-                "z": -4977
+                    "x": 987,
+                    "y": 68,
+                    "z": -4977
                 }
             },
             {
                 "name": "Fortress Catacombs",
                 "coordinates": {
-                "x": -1336,
-                "y": 46,
-                "z": -5079
+                    "x": -1336,
+                    "y": 46,
+                    "z": -5079
                 }
             },
             {
                 "name": "Freight Interchange",
                 "coordinates": {
-                "x": -1651,
-                "y": 30,
-                "z": -515
+                    "x": -1651,
+                    "y": 30,
+                    "z": -515
                 }
             },
             {
                 "name": "Fungas Log",
                 "coordinates": {
-                "x": -147,
-                "y": 78,
-                "z": -1682
+                    "x": -147,
+                    "y": 78,
+                    "z": -1682
                 }
             },
             {
                 "name": "Gator Range",
                 "coordinates": {
-                "x": 1306,
-                "y": 32,
-                "z": -1452
+                    "x": 1306,
+                    "y": 32,
+                    "z": -1452
                 }
             },
             {
                 "name": "Geodesic",
                 "coordinates": {
-                "x": -1369,
-                "y": 122,
-                "z": -3060
+                    "x": -1369,
+                    "y": 122,
+                    "z": -3060
                 }
             },
             {
                 "name": "Glacier Tunnels",
                 "coordinates": {
-                "x": -1020,
-                "y": 125,
-                "z": -1335
+                    "x": -1020,
+                    "y": 125,
+                    "z": -1335
                 }
             },
             {
                 "name": "Gold Rush",
                 "coordinates": {
-                "x": 1440,
-                "y": 34,
-                "z": -1369
+                    "x": 1440,
+                    "y": 34,
+                    "z": -1369
                 }
             },
             {
                 "name": "Gorgon Gorge",
                 "coordinates": {
-                "x": 715,
-                "y": 51,
-                "z": -5495
+                    "x": 715,
+                    "y": 51,
+                    "z": -5495
                 }
             },
             {
                 "name": "Guardians Cove",
                 "coordinates": {
-                "x": 129,
-                "y": 46,
-                "z": -5565
+                    "x": 129,
+                    "y": 46,
+                    "z": -5565
                 }
             },
             {
                 "name": "Half Moon Island",
                 "coordinates": {
-                "x": 1085,
-                "y": 38,
-                "z": -2566
+                    "x": 1085,
+                    "y": 38,
+                    "z": -2566
                 }
             },
             {
                 "name": "Haze Cave",
                 "coordinates": {
-                "x": 948,
-                "y": 94,
-                "z": -1049
+                    "x": 948,
+                    "y": 94,
+                    "z": -1049
                 }
             },
             {
                 "name": "Headless Hollow",
                 "coordinates": {
-                "x": -22,
-                "y": 78,
-                "z": -297
+                    "x": -22,
+                    "y": 78,
+                    "z": -297
                 }
             },
             {
                 "name": "Hex Keep Gateway",
                 "coordinates": {
-                "x": 288,
-                "y": 69,
-                "z": -1639
+                    "x": 288,
+                    "y": 69,
+                    "z": -1639
                 }
             },
             {
                 "name": "Hill Hovel",
                 "coordinates": {
-                "x": 241,
-                "y": 71,
-                "z": -1559
+                    "x": 241,
+                    "y": 71,
+                    "z": -1559
                 }
             },
             {
                 "name": "Holehold Orc Camp",
                 "coordinates": {
-                "x": -1767,
-                "y": 49,
-                "z": -4778
+                    "x": -1767,
+                    "y": 49,
+                    "z": -4778
                 }
             },
             {
                 "name": "Ice Doors",
                 "coordinates": {
-                "x": -118,
-                "y": 71,
-                "z": -923
+                    "x": -118,
+                    "y": 71,
+                    "z": -923
                 }
             },
             {
                 "name": "Jade Well",
                 "coordinates": {
-                "x": -799,
-                "y": 44,
-                "z": -608
+                    "x": -799,
+                    "y": 44,
+                    "z": -608
                 }
             },
             {
                 "name": "Jungle Fetish Camp",
                 "coordinates": {
-                "x": -698,
-                "y": 34,
-                "z": -607
+                    "x": -698,
+                    "y": 34,
+                    "z": -607
                 }
             },
             {
                 "name": "Jungle Horrors",
                 "coordinates": {
-                "x": -609,
-                "y": 109,
-                "z": -579
+                    "x": -609,
+                    "y": 109,
+                    "z": -579
                 }
             },
             {
                 "name": "Jungle Labyrinth",
                 "coordinates": {
-                "x": -667,
-                "y": 61,
-                "z": -926
+                    "x": -667,
+                    "y": 61,
+                    "z": -926
                 }
             },
             {
                 "name": "Junk Pit",
                 "coordinates": {
-                "x": -1782,
-                "y": 65,
-                "z": -2569
+                    "x": -1782,
+                    "y": 65,
+                    "z": -2569
                 }
             },
             {
                 "name": "Kander Crypt",
                 "coordinates": {
-                "x": -406,
-                "y": 48,
-                "z": -5444
+                    "x": -406,
+                    "y": 48,
+                    "z": -5444
                 }
             },
             {
                 "name": "Krisa Manor",
                 "coordinates": {
-                "x": -1366,
-                "y": 108,
-                "z": -1019
+                    "x": -1366,
+                    "y": 108,
+                    "z": -1019
                 }
             },
             {
                 "name": "Lake Pit",
                 "coordinates": {
-                "x": 477,
-                "y": 69,
-                "z": -1226
+                    "x": 477,
+                    "y": 69,
+                    "z": -1226
                 }
             },
             {
                 "name": "Lamprophis Lair",
                 "coordinates": {
-                "x": 1054,
-                "y": 47,
-                "z": -4961
+                    "x": 1054,
+                    "y": 47,
+                    "z": -4961
                 }
             },
             {
                 "name": "Ledant Hill",
                 "coordinates": {
-                "x": -1222,
-                "y": 75,
-                "z": -4856
+                    "x": -1222,
+                    "y": 75,
+                    "z": -4856
                 }
             },
             {
                 "name": "Liftal Castle",
                 "coordinates": {
-                "x": -1443,
-                "y": 108,
-                "z": -1037
+                    "x": -1443,
+                    "y": 108,
+                    "z": -1037
                 }
             },
             {
                 "name": "Lily Pad Parkour",
                 "coordinates": {
-                "x": -1834,
-                "y": 58,
-                "z": -5172
+                    "x": -1834,
+                    "y": 58,
+                    "z": -5172
                 }
             },
             {
                 "name": "Lion's Lair",
                 "coordinates": {
-                "x": 768,
-                "y": 94,
-                "z": -2211
+                    "x": 768,
+                    "y": 94,
+                    "z": -2211
                 }
             },
             {
                 "name": "Loot Symposium",
                 "coordinates": {
-                "x": 775,
-                "y": 154,
-                "z": -950
+                    "x": 775,
+                    "y": 154,
+                    "z": -950
                 }
             },
             {
                 "name": "Lovers' Cavern",
                 "coordinates": {
-                "x": 394,
-                "y": 45,
-                "z": -1990
+                    "x": 394,
+                    "y": 45,
+                    "z": -1990
                 }
             },
             {
                 "name": "Lower Abandoned Mines",
                 "coordinates": {
-                "x": 769,
-                "y": 28,
-                "z": -1280
+                    "x": 769,
+                    "y": 28,
+                    "z": -1280
                 }
             },
             {
                 "name": "Lush Grotto",
                 "coordinates": {
-                "x": 719,
-                "y": 36,
-                "z": -2853
+                    "x": 719,
+                    "y": 36,
+                    "z": -2853
                 }
             },
             {
                 "name": "Maddening Mud",
                 "coordinates": {
-                "x": -1544,
-                "y": 49,
-                "z": -5337
+                    "x": -1544,
+                    "y": 49,
+                    "z": -5337
                 }
             },
             {
                 "name": "Mesquis Tower",
                 "coordinates": {
-                "x": -785,
-                "y": 59,
-                "z": -5036
+                    "x": -785,
+                    "y": 59,
+                    "z": -5036
                 }
             },
             {
                 "name": "Mossy Grotto",
                 "coordinates": {
-                "x": -449,
-                "y": 68,
-                "z": -1394
+                    "x": -449,
+                    "y": 68,
+                    "z": -1394
                 }
             },
             {
                 "name": "Muddy Cavern",
                 "coordinates": {
-                "x": 108,
-                "y": 50,
-                "z": -1924
+                    "x": 108,
+                    "y": 50,
+                    "z": -1924
                 }
             },
             {
                 "name": "Mycolite Mountain",
                 "coordinates": {
-                "x": 1015,
-                "y": 104,
-                "z": -4358
+                    "x": 1015,
+                    "y": 104,
+                    "z": -4358
                 }
             },
             {
                 "name": "Mystifying Stump",
                 "coordinates": {
-                "x": -754,
-                "y": 54,
-                "z": -5299
+                    "x": -754,
+                    "y": 54,
+                    "z": -5299
                 }
             },
             {
                 "name": "Naga Dugout",
                 "coordinates": {
-                "x": -2025,
-                "y": 60,
-                "z": -5081
+                    "x": -2025,
+                    "y": 60,
+                    "z": -5081
                 }
             },
             {
                 "name": "Nest & Bones",
                 "coordinates": {
-                "x": 1467,
-                "y": 47,
-                "z": -5559
+                    "x": 1467,
+                    "y": 47,
+                    "z": -5559
                 }
             },
             {
                 "name": "Nesting Place",
                 "coordinates": {
-                "x": -1542,
-                "y": 55,
-                "z": -551
+                    "x": -1542,
+                    "y": 55,
+                    "z": -551
                 }
             },
             {
                 "name": "Northern Outpost",
                 "coordinates": {
-                "x": -1112,
-                "y": 87,
-                "z": -1407
+                    "x": -1112,
+                    "y": 87,
+                    "z": -1407
                 }
             },
             {
                 "name": "Nymph Towers",
                 "coordinates": {
-                "x": -1052,
-                "y": 47,
-                "z": -4768
+                    "x": -1052,
+                    "y": 47,
+                    "z": -4768
                 }
             },
             {
                 "name": "Old Growth Rot",
                 "coordinates": {
-                "x": -265,
-                "y": 74,
-                "z": -1529
+                    "x": -265,
+                    "y": 74,
+                    "z": -1529
                 }
             },
             {
                 "name": "Overgrown Rubble",
                 "coordinates": {
-                "x": 742,
-                "y": 88,
-                "z": -4890
+                    "x": 742,
+                    "y": 88,
+                    "z": -4890
                 }
             },
             {
                 "name": "Ovine Spire",
                 "coordinates": {
-                "x": 778,
-                "y": 82,
-                "z": -4721
+                    "x": 778,
+                    "y": 82,
+                    "z": -4721
                 }
             },
             {
                 "name": "Pigman Barbeque",
                 "coordinates": {
-                "x": -622,
-                "y": 70,
-                "z": -1572
+                    "x": -622,
+                    "y": 70,
+                    "z": -1572
                 }
             },
             {
                 "name": "Pirate Hold",
                 "coordinates": {
-                "x": 489,
-                "y": 40,
-                "z": -2067
+                    "x": 489,
+                    "y": 40,
+                    "z": -2067
                 }
             },
             {
                 "name": "Pirate Lattice",
                 "coordinates": {
-                "x": -1394,
-                "y": 67,
-                "z": -2393
+                    "x": -1394,
+                    "y": 67,
+                    "z": -2393
                 }
             },
             {
                 "name": "Pirate Sloop",
                 "coordinates": {
-                "x": -1341,
-                "y": 39,
-                "z": -2229
+                    "x": -1341,
+                    "y": 39,
+                    "z": -2229
                 }
             },
             {
                 "name": "Plasmatic Gouge",
                 "coordinates": {
-                "x": 411,
-                "y": 42,
-                "z": -5168
+                    "x": 411,
+                    "y": 42,
+                    "z": -5168
                 }
             },
             {
                 "name": "Quicksand Carvers' Den",
                 "coordinates": {
-                "x": 974,
-                "y": 65,
-                "z": -2109
+                    "x": 974,
+                    "y": 65,
+                    "z": -2109
                 }
             },
             {
                 "name": "Raging Survivor",
                 "coordinates": {
-                "x": -287,
-                "y": 27,
-                "z": -555
+                    "x": -287,
+                    "y": 27,
+                    "z": -555
                 }
             },
             {
                 "name": "Raging Tower",
                 "coordinates": {
-                "x": 144,
-                "y": 71,
-                "z": -1680
+                    "x": 144,
+                    "y": 71,
+                    "z": -1680
                 }
             },
             {
                 "name": "Raiders' Hideout",
                 "coordinates": {
-                "x": -252,
-                "y": 35,
-                "z": -291
+                    "x": -252,
+                    "y": 35,
+                    "z": -291
                 }
             },
             {
                 "name": "Raiders' Rockhill",
                 "coordinates": {
-                "x": -111,
-                "y": 38,
-                "z": -4621
+                    "x": -111,
+                    "y": 38,
+                    "z": -4621
                 }
             },
             {
                 "name": "Recluse Nest",
                 "coordinates": {
-                "x": -755,
-                "y": 47,
-                "z": -4830
+                    "x": -755,
+                    "y": 47,
+                    "z": -4830
                 }
             },
             {
                 "name": "Rocky Peril",
                 "coordinates": {
-                "x": 330,
-                "y": 69,
-                "z": -4916
+                    "x": 330,
+                    "y": 69,
+                    "z": -4916
                 }
             },
             {
                 "name": "Root Slingers' Rut",
                 "coordinates": {
-                "x": -177,
-                "y": 35,
-                "z": -4864
+                    "x": -177,
+                    "y": 35,
+                    "z": -4864
                 }
             },
             {
                 "name": "Roots of Infestation",
                 "coordinates": {
-                "x": -209,
-                "y": 71,
-                "z": -1570
+                    "x": -209,
+                    "y": 71,
+                    "z": -1570
                 }
             },
             {
                 "name": "Rotten Altar",
                 "coordinates": {
-                "x": -570,
-                "y": 70,
-                "z": -612
+                    "x": -570,
+                    "y": 70,
+                    "z": -612
                 }
             },
             {
                 "name": "Saltpetre Mine",
                 "coordinates": {
-                "x": -1288,
-                "y": 86,
-                "z": -1319
+                    "x": -1288,
+                    "y": 86,
+                    "z": -1319
                 }
             },
             {
                 "name": "Scarred Ingress",
                 "coordinates": {
-                "x": 1263,
-                "y": 151,
-                "z": -4647
+                    "x": 1263,
+                    "y": 151,
+                    "z": -4647
                 }
             },
             {
                 "name": "Scorched Earth",
                 "coordinates": {
-                "x": 1603,
-                "y": 155,
-                "z": -5069
+                    "x": 1603,
+                    "y": 155,
+                    "z": -5069
                 }
             },
             {
                 "name": "Secret Mine",
                 "coordinates": {
-                "x": -1490,
-                "y": 49,
-                "z": -4990
+                    "x": -1490,
+                    "y": 49,
+                    "z": -4990
                 }
             },
             {
                 "name": "Seismic Bore Hole",
                 "coordinates": {
-                "x": 638,
-                "y": 57,
-                "z": -4719
+                    "x": 638,
+                    "y": 57,
+                    "z": -4719
                 }
             },
             {
                 "name": "Sewer Herps",
                 "coordinates": {
-                "x": -1983,
-                "y": 66,
-                "z": -5234
+                    "x": -1983,
+                    "y": 66,
+                    "z": -5234
                 }
             },
             {
                 "name": "Shadow Altar",
                 "coordinates": {
-                "x": 1271,
-                "y": 65,
-                "z": -5427
+                    "x": 1271,
+                    "y": 65,
+                    "z": -5427
                 }
             },
             {
                 "name": "Shadow Spears Refuge",
                 "coordinates": {
-                "x": 1339,
-                "y": 34,
-                "z": -1552
+                    "x": 1339,
+                    "y": 34,
+                    "z": -1552
                 }
             },
             {
                 "name": "Shineridge Orc Camp",
                 "coordinates": {
-                "x": -1621,
-                "y": 50,
-                "z": -4664
+                    "x": -1621,
+                    "y": 50,
+                    "z": -4664
                 }
             },
             {
                 "name": "Shock Shrine",
                 "coordinates": {
-                "x": -647,
-                "y": 51,
-                "z": -4419
+                    "x": -647,
+                    "y": 51,
+                    "z": -4419
                 }
             },
             {
                 "name": "Shroom Sleeper Dugout",
                 "coordinates": {
-                "x": -551,
-                "y": 46,
-                "z": -4689
+                    "x": -551,
+                    "y": 46,
+                    "z": -4689
                 }
             },
             {
                 "name": "Sink Hole",
                 "coordinates": {
-                "x": -1512,
-                "y": 51,
-                "z": -5243
+                    "x": -1512,
+                    "y": 51,
+                    "z": -5243
                 }
             },
             {
                 "name": "Skien's Prison Block",
                 "coordinates": {
-                "x": 405,
-                "y": 10,
-                "z": -3468
+                    "x": 405,
+                    "y": 10,
+                    "z": -3468
                 }
             },
             {
                 "name": "Sky Shroom",
                 "coordinates": {
-                "x": 1199,
-                "y": 109,
-                "z": -4289
+                    "x": 1199,
+                    "y": 109,
+                    "z": -4289
                 }
             },
             {
                 "name": "Sol Hive",
                 "coordinates": {
-                "x": -2203,
-                "y": 94,
-                "z": -4929
+                    "x": -2203,
+                    "y": 94,
+                    "z": -4929
                 }
             },
             {
                 "name": "Spider Mother Grove",
                 "coordinates": {
-                "x": -312,
-                "y": 78,
-                "z": -1553
+                    "x": -312,
+                    "y": 78,
+                    "z": -1553
                 }
             },
             {
                 "name": "Spiteful Crossing",
                 "coordinates": {
-                "x": 854,
-                "y": 82,
-                "z": -668
+                    "x": 854,
+                    "y": 82,
+                    "z": -668
                 }
             },
             {
                 "name": "Spore Spiral",
                 "coordinates": {
-                "x": 672,
-                "y": 72,
-                "z": -1616
+                    "x": 672,
+                    "y": 72,
+                    "z": -1616
                 }
             },
             {
                 "name": "Statue Opening",
                 "coordinates": {
-                "x": 826,
-                "y": 80,
-                "z": -429
+                    "x": 826,
+                    "y": 80,
+                    "z": -429
                 }
             },
             {
                 "name": "Steamworks",
                 "coordinates": {
-                "x": -1471,
-                "y": 64,
-                "z": -2376
+                    "x": -1471,
+                    "y": 64,
+                    "z": -2376
                 }
             },
             {
                 "name": "Submerged Coal Mine",
                 "coordinates": {
-                "x": -120,
-                "y": 31,
-                "z": -294
+                    "x": -120,
+                    "y": 31,
+                    "z": -294
                 }
             },
             {
                 "name": "Subterranean Mire",
                 "coordinates": {
-                "x": -809,
-                "y": 24,
-                "z": -448
+                    "x": -809,
+                    "y": 24,
+                    "z": -448
                 }
             },
             {
                 "name": "Sundial Sanctum",
                 "coordinates": {
-                "x": 1062,
-                "y": 74,
-                "z": -1726
+                    "x": 1062,
+                    "y": 74,
+                    "z": -1726
                 }
             },
             {
                 "name": "Sunken Ship",
                 "coordinates": {
-                "x": 215,
-                "y": 35,
-                "z": -2410
+                    "x": 215,
+                    "y": 35,
+                    "z": -2410
                 }
             },
             {
                 "name": "Swamp Hill",
                 "coordinates": {
-                "x": -2059,
-                "y": 59,
-                "z": -5241
+                    "x": -2059,
+                    "y": 59,
+                    "z": -5241
                 }
             },
             {
                 "name": "Temple Entrance",
                 "coordinates": {
-                "x": -675,
-                "y": 33,
-                "z": -306
+                    "x": -675,
+                    "y": 33,
+                    "z": -306
                 }
             },
             {
                 "name": "Tericen Stables",
                 "coordinates": {
-                "x": -1159,
-                "y": 70,
-                "z": -1014
+                    "x": -1159,
+                    "y": 70,
+                    "z": -1014
                 }
             },
             {
                 "name": "Termite Mounds",
                 "coordinates": {
-                "x": 727,
-                "y": 77,
-                "z": -1707
+                    "x": 727,
+                    "y": 77,
+                    "z": -1707
                 }
             },
             {
                 "name": "The Alcazar",
                 "coordinates": {
-                "x": -499,
-                "y": 77,
-                "z": -1024
+                    "x": -499,
+                    "y": 77,
+                    "z": -1024
                 }
             },
             {
                 "name": "The Barracks",
                 "coordinates": {
-                "x": -1641,
-                "y": 151,
-                "z": -964
+                    "x": -1641,
+                    "y": 151,
+                    "z": -964
                 }
             },
             {
                 "name": "The Donjon",
                 "coordinates": {
-                "x": 900,
-                "y": 98,
-                "z": -4408
+                    "x": 900,
+                    "y": 98,
+                    "z": -4408
                 }
             },
             {
                 "name": "The Flush",
                 "coordinates": {
-                "x": -1754,
-                "y": 20,
-                "z": -490
+                    "x": -1754,
+                    "y": 20,
+                    "z": -490
                 }
             },
             {
                 "name": "The Gwanari",
                 "coordinates": {
-                "x": 983,
-                "y": 76,
-                "z": -470
+                    "x": 983,
+                    "y": 76,
+                    "z": -470
                 }
             },
             {
                 "name": "The Heartwood",
                 "coordinates": {
-                "x": -625,
-                "y": 67,
-                "z": -289
+                    "x": -625,
+                    "y": 67,
+                    "z": -289
                 }
             },
             {
                 "name": "The Lantern Keeper's Abode",
                 "coordinates": {
-                "x": 1285,
-                "y": 104,
-                "z": -1060
+                    "x": 1285,
+                    "y": 104,
+                    "z": -1060
                 }
             },
             {
                 "name": "The Place Coalesced",
                 "coordinates": {
-                "x": 879,
-                "y": 80,
-                "z": -803
+                    "x": 879,
+                    "y": 80,
+                    "z": -803
                 }
             },
             {
                 "name": "The Place Condensed",
                 "coordinates": {
-                "x": 1038,
-                "y": 85,
-                "z": -692
+                    "x": 1038,
+                    "y": 85,
+                    "z": -692
                 }
             },
             {
                 "name": "The Place Conglomerated",
                 "coordinates": {
-                "x": 1313,
-                "y": 146,
-                "z": -1048
+                    "x": 1313,
+                    "y": 146,
+                    "z": -1048
                 }
             },
             {
                 "name": "The Sacrificial Altar",
                 "coordinates": {
-                "x": -298,
-                "y": 39,
-                "z": -969
+                    "x": -298,
+                    "y": 39,
+                    "z": -969
                 }
             },
             {
                 "name": "The Warehouse",
                 "coordinates": {
-                "x": -1847,
-                "y": 42,
-                "z": -2641
+                    "x": -1847,
+                    "y": 42,
+                    "z": -2641
                 }
             },
             {
                 "name": "Theatre Royal",
                 "coordinates": {
-                "x": -1763,
-                "y": 136,
-                "z": -798
+                    "x": -1763,
+                    "y": 136,
+                    "z": -798
                 }
             },
             {
                 "name": "Thunder Grub Nest",
                 "coordinates": {
-                "x": -618,
-                "y": 64,
-                "z": -728
+                    "x": -618,
+                    "y": 64,
+                    "z": -728
                 }
             },
             {
                 "name": "Tidepool Terrace",
                 "coordinates": {
-                "x": -512,
-                "y": 36,
-                "z": -2015
+                    "x": -512,
+                    "y": 36,
+                    "z": -2015
                 }
             },
             {
                 "name": "Time Valley Aquifer",
                 "coordinates": {
-                "x": -377,
-                "y": 75,
-                "z": -1167
+                    "x": -377,
+                    "y": 75,
+                    "z": -1167
                 }
             },
             {
                 "name": "Toads in a Hole",
                 "coordinates": {
-                "x": -1756,
-                "y": 58,
-                "z": -5133
+                    "x": -1756,
+                    "y": 58,
+                    "z": -5133
                 }
             },
             {
                 "name": "Treasure Tomb",
                 "coordinates": {
-                "x": 1030,
-                "y": 69,
-                "z": -2169
+                    "x": 1030,
+                    "y": 69,
+                    "z": -2169
                 }
             },
             {
                 "name": "Tree of Light",
                 "coordinates": {
-                "x": -893,
-                "y": 55,
-                "z": -6217
+                    "x": -893,
+                    "y": 55,
+                    "z": -6217
                 }
             },
             {
                 "name": "Troll Burrows",
                 "coordinates": {
-                "x": 858,
-                "y": 81,
-                "z": -5198
+                    "x": 858,
+                    "y": 81,
+                    "z": -5198
                 }
             },
             {
                 "name": "Troll Tower",
                 "coordinates": {
-                "x": 1106,
-                "y": 86,
-                "z": -2870
+                    "x": 1106,
+                    "y": 86,
+                    "z": -2870
                 }
             },
             {
                 "name": "Trunk Garrison",
                 "coordinates": {
-                "x": -560,
-                "y": 80,
-                "z": -959
+                    "x": -560,
+                    "y": 80,
+                    "z": -959
                 }
             },
             {
                 "name": "Visceral Remnant",
                 "coordinates": {
-                "x": -997,
-                "y": 46,
-                "z": -5559
+                    "x": -997,
+                    "y": 46,
+                    "z": -5559
                 }
             },
             {
                 "name": "Volcanus Pit",
                 "coordinates": {
-                "x": -830,
-                "y": 41,
-                "z": -3794
+                    "x": -830,
+                    "y": 41,
+                    "z": -3794
                 }
             },
             {
                 "name": "Voltaic Crag",
                 "coordinates": {
-                "x": 632,
-                "y": 47,
-                "z": -4947
+                    "x": 632,
+                    "y": 47,
+                    "z": -4947
                 }
             },
             {
                 "name": "Vortex Complex",
                 "coordinates": {
-                "x": -182,
-                "y": 73,
-                "z": -1210
+                    "x": -182,
+                    "y": 73,
+                    "z": -1210
                 }
             },
             {
                 "name": "Water Tower",
                 "coordinates": {
-                "x": -2121,
-                "y": 61,
-                "z": -802
+                    "x": -2121,
+                    "y": 61,
+                    "z": -802
                 }
             },
             {
                 "name": "Watery Waterfall",
                 "coordinates": {
-                "x": 536,
-                "y": 31,
-                "z": -5363
+                    "x": 536,
+                    "y": 31,
+                    "z": -5363
                 }
             },
             {
                 "name": "Wave Cult Temple",
                 "coordinates": {
-                "x": -251,
-                "y": 37,
-                "z": -2725
+                    "x": -251,
+                    "y": 37,
+                    "z": -2725
                 }
             },
             {
                 "name": "Weapons Factory",
                 "coordinates": {
-                "x": -2187,
-                "y": 36,
-                "z": -751
+                    "x": -2187,
+                    "y": 36,
+                    "z": -751
                 }
             },
             {
                 "name": "Weird Wilds",
                 "coordinates": {
-                "x": -967,
-                "y": 66,
-                "z": -4353
+                    "x": -967,
+                    "y": 66,
+                    "z": -4353
                 }
             },
             {
                 "name": "Weirding Ring",
                 "coordinates": {
-                "x": -498,
-                "y": 42,
-                "z": -5293
+                    "x": -498,
+                    "y": 42,
+                    "z": -5293
                 }
             },
             {
                 "name": "Willow Crypt",
                 "coordinates": {
-                "x": 591,
-                "y": 82,
-                "z": -1866
+                    "x": 591,
+                    "y": 82,
+                    "z": -1866
                 }
             },
             {
                 "name": "Windwalker Temple",
                 "coordinates": {
-                "x": 1358,
-                "y": 106,
-                "z": -4743
+                    "x": 1358,
+                    "y": 106,
+                    "z": -4743
                 }
             },
             {
                 "name": "Winery Infestation",
                 "coordinates": {
-                "x": 282,
-                "y": 71,
-                "z": -1392
+                    "x": 282,
+                    "y": 71,
+                    "z": -1392
                 }
             },
             {
                 "name": "Wolf Den",
                 "coordinates": {
-                "x": 175,
-                "y": 73,
-                "z": -715
+                    "x": 175,
+                    "y": 73,
+                    "z": -715
                 }
             }
-            ]
+        ]
+    },
+    {
+        "type": "Lootruns",
+        "locations": [
+            {
+                "name": "Canyon of the Lost Excursion (South)",
+                "coordinates": {
+                    "x": "575",
+                    "y": "78",
+                    "z": "-5025"
+                }
+            },
+            {
+                "name": "The Corkus Traversal",
+                "coordinates": {
+                    "x": "-1560",
+                    "y": "97",
+                    "z": "-2675"
+                }
+            },
+            {
+                "name": "Molten Heights Hike",
+                "coordinates": {
+                    "x": "1270",
+                    "y": "10",
+                    "z": "-5130"
+                }
+            },
+            {
+                "name": "Sky Islands Exploration",
+                "coordinates": {
+                    "x": "1035",
+                    "y": "135",
+                    "z": "-4420"
+                }
+            },
+            {
+                "name": "Silent Expanse Expedition",
+                "coordinates": {
+                    "x": "990",
+                    "y": "77",
+                    "z": "-785"
+                }
+            },
+            {
+                "name": "The Fruma Foray (West)",
+                "coordinates": {
+                    "x": "-2002",
+                    "y": "4",
+                    "z": "-775"
+                }
+            },
+            {
+                "name": "The Fruma Foray (East)",
+                "coordinates": {
+                    "x": "-1294",
+                    "y": "75",
+                    "z": "-1146"
+                }
+            }
+        ]
+    },
+    {
+        "type": "Quests",
+        "locations": [
+            {
+                "name": "Royal Trials",
+                "coordinates": {
+                    "x": "1479",
+                    "y": "84",
+                    "z": "-4343"
+                }
+            },
+            {
+                "name": "Dwelling Walls",
+                "coordinates": {
+                    "x": "196",
+                    "y": "38",
+                    "z": "-2172"
+                }
+            },
+            {
+                "name": "Jungle Fever",
+                "coordinates": {
+                    "x": "-740",
+                    "y": "80",
+                    "z": "-662"
+                }
+            },
+            {
+                "name": "Infested Plants",
+                "coordinates": {
+                    "x": "-424",
+                    "y": "68",
+                    "z": "-1595"
+                }
+            },
+            {
+                "name": "Dwarves and Doguns Part II",
+                "coordinates": {
+                    "x": "1436",
+                    "y": "134",
+                    "z": "-5388"
+                }
+            },
+            {
+                "name": "Apotheosis",
+                "coordinates": {
+                    "x": "-1351",
+                    "y": "106",
+                    "z": "-1210"
+                }
+            },
+            {
+                "name": "Heart of Llevigar",
+                "coordinates": {
+                    "x": "-1872",
+                    "y": "55",
+                    "z": "-4593"
+                }
+            },
+            {
+                "name": "Ice Nations",
+                "coordinates": {
+                    "x": "806",
+                    "y": "59",
+                    "z": "-3353"
+                }
+            },
+            {
+                "name": "Blazing Retribution",
+                "coordinates": {
+                    "x": "-1844",
+                    "y": "55",
+                    "z": "-4951"
+                }
+            },
+            {
+                "name": "Lava Springs",
+                "coordinates": {
+                    "x": "671",
+                    "y": "80",
+                    "z": "-1754"
+                }
+            },
+            {
+                "name": "Beneath the Depths",
+                "coordinates": {
+                    "x": "-640",
+                    "y": "53",
+                    "z": "-3117"
+                }
+            },
+            {
+                "name": "Enter the Dojo",
+                "coordinates": {
+                    "x": "495",
+                    "y": "109",
+                    "z": "-5571"
+                }
+            },
+            {
+                "name": "Shrouded in Mist",
+                "coordinates": {
+                    "x": "-1468",
+                    "y": "32",
+                    "z": "-585"
+                }
+            },
+            {
+                "name": "Through the Pipes",
+                "coordinates": {
+                    "x": "-1777",
+                    "y": "26",
+                    "z": "-570"
+                }
+            },
+            {
+                "name": "Fantastic Voyage",
+                "coordinates": {
+                    "x": "1304",
+                    "y": "35",
+                    "z": "-4043"
+                }
+            },
+            {
+                "name": "The Hidden City",
+                "coordinates": {
+                    "x": "711",
+                    "y": "78",
+                    "z": "-5072"
+                }
+            },
+            {
+                "name": "Beyond the Grave",
+                "coordinates": {
+                    "x": "499",
+                    "y": "155",
+                    "z": "-4778"
+                }
+            },
+            {
+                "name": "Dwarves and Doguns Part III",
+                "coordinates": {
+                    "x": "1371",
+                    "y": "141",
+                    "z": "-5306"
+                }
+            },
+            {
+                "name": "Tunnel Trouble",
+                "coordinates": {
+                    "x": "380",
+                    "y": "68",
+                    "z": "-1570"
+                }
+            },
+            {
+                "name": "True Colours",
+                "coordinates": {
+                    "x": "-1372",
+                    "y": "155",
+                    "z": "-563"
+                }
+            },
+            {
+                "name": "The Price of Ingenuity",
+                "coordinates": {
+                    "x": "-2079",
+                    "y": "6",
+                    "z": "-709"
+                }
+            },
+            {
+                "name": "Bob's Lost Soul",
+                "coordinates": {
+                    "x": "-7",
+                    "y": "68",
+                    "z": "-793"
+                }
+            },
+            {
+                "name": "Burning Bonds",
+                "coordinates": {
+                    "x": "-1381",
+                    "y": "51",
+                    "z": "-648"
+                }
+            },
+            {
+                "name": "Underwater",
+                "coordinates": {
+                    "x": "-540",
+                    "y": "34",
+                    "z": "-2020"
+                }
+            },
+            {
+                "name": "Echoes of Change",
+                "coordinates": {
+                    "x": "-2087",
+                    "y": "6",
+                    "z": "-697"
+                }
+            },
+            {
+                "name": "Acquiring Credentials",
+                "coordinates": {
+                    "x": "-256",
+                    "y": "57",
+                    "z": "-4983"
+                }
+            },
+            {
+                "name": "Mushroom Man",
+                "coordinates": {
+                    "x": "-158",
+                    "y": "73",
+                    "z": "-1621"
+                }
+            },
+            {
+                "name": "Enzan's Brother",
+                "coordinates": {
+                    "x": "-772",
+                    "y": "67",
+                    "z": "-1574"
+                }
+            },
+            {
+                "name": "A New Beginning",
+                "coordinates": {
+                    "x": "-2073",
+                    "y": "25",
+                    "z": "-1063"
+                }
+            },
+            {
+                "name": "Reclaiming the House",
+                "coordinates": {
+                    "x": "-1499",
+                    "y": "47",
+                    "z": "-5349"
+                }
+            },
+            {
+                "name": "Tempo Town Trouble",
+                "coordinates": {
+                    "x": "87",
+                    "y": "39",
+                    "z": "-2199"
+                }
+            },
+            {
+                "name": "Star Thief",
+                "coordinates": {
+                    "x": "-2018",
+                    "y": "43",
+                    "z": "-4822"
+                }
+            },
+            {
+                "name": "The Feathers Fly Part II",
+                "coordinates": {
+                    "x": "-1573",
+                    "y": "86",
+                    "z": "-2762"
+                }
+            },
+            {
+                "name": "A Sandy Scandal",
+                "coordinates": {
+                    "x": "976",
+                    "y": "83",
+                    "z": "-1963"
+                }
+            },
+            {
+                "name": "Underice",
+                "coordinates": {
+                    "x": "157",
+                    "y": "73",
+                    "z": "-812"
+                }
+            },
+            {
+                "name": "A Journey Beyond",
+                "coordinates": {
+                    "x": "419",
+                    "y": "67",
+                    "z": "-1533"
+                }
+            },
+            {
+                "name": "Lost Tower",
+                "coordinates": {
+                    "x": "24",
+                    "y": "38",
+                    "z": "-2199"
+                }
+            },
+            {
+                "name": "Grand Youth",
+                "coordinates": {
+                    "x": "-550",
+                    "y": "61",
+                    "z": "-747"
+                }
+            },
+            {
+                "name": "An Iron Heart Part II",
+                "coordinates": {
+                    "x": "-1745",
+                    "y": "66",
+                    "z": "-5479"
+                }
+            },
+            {
+                "name": "Forbidden Prison",
+                "coordinates": {
+                    "x": "-963",
+                    "y": "47",
+                    "z": "-5280"
+                }
+            },
+            {
+                "name": "The Order of the Grook",
+                "coordinates": {
+                    "x": "940",
+                    "y": "77",
+                    "z": "-2866"
+                }
+            },
+            {
+                "name": "Troubled Tribesmen",
+                "coordinates": {
+                    "x": "-545",
+                    "y": "52",
+                    "z": "-313"
+                }
+            },
+            {
+                "name": "Deja Vu",
+                "coordinates": {
+                    "x": "-449",
+                    "y": "72",
+                    "z": "-1153"
+                }
+            },
+            {
+                "name": "Pirate's Trove",
+                "coordinates": {
+                    "x": "-1938",
+                    "y": "38",
+                    "z": "-4260"
+                }
+            },
+            {
+                "name": "Taking the Tower",
+                "coordinates": {
+                    "x": "511",
+                    "y": "67",
+                    "z": "-1613"
+                }
+            },
+            {
+                "name": "Dwarves and Doguns Part IV",
+                "coordinates": {
+                    "x": "1514",
+                    "y": "51",
+                    "z": "-5342"
+                }
+            },
+            {
+                "name": "Shattered Minds",
+                "coordinates": {
+                    "x": "-1058",
+                    "y": "44",
+                    "z": "-5006"
+                }
+            },
+            {
+                "name": "WynnExcavation Site C",
+                "coordinates": {
+                    "x": "-1067",
+                    "y": "42",
+                    "z": "-3740"
+                }
+            },
+            {
+                "name": "WynnExcavation Site A",
+                "coordinates": {
+                    "x": "1150",
+                    "y": "54",
+                    "z": "-1771"
+                }
+            },
+            {
+                "name": "Wrath of the Mummy",
+                "coordinates": {
+                    "x": "980",
+                    "y": "69",
+                    "z": "-1818"
+                }
+            },
+            {
+                "name": "WynnExcavation Site B",
+                "coordinates": {
+                    "x": "39",
+                    "y": "62",
+                    "z": "-526"
+                }
+            },
+            {
+                "name": "The Missing Piece",
+                "coordinates": {
+                    "x": "-2156",
+                    "y": "30",
+                    "z": "-944"
+                }
+            },
+            {
+                "name": "The Qira Hive",
+                "coordinates": {
+                    "x": "372",
+                    "y": "64",
+                    "z": "-5501"
+                }
+            },
+            {
+                "name": "Zhight Island",
+                "coordinates": {
+                    "x": "-542",
+                    "y": "38",
+                    "z": "-2755"
+                }
+            },
+            {
+                "name": "The Ultimate Weapon",
+                "coordinates": {
+                    "x": "-947",
+                    "y": "42",
+                    "z": "-4593"
+                }
+            },
+            {
+                "name": "Meaningful Holiday",
+                "coordinates": {
+                    "x": "930",
+                    "y": "75",
+                    "z": "-1903"
+                }
+            },
+            {
+                "name": "One Thousand Meters Under",
+                "coordinates": {
+                    "x": "1108",
+                    "y": "107",
+                    "z": "-4555"
+                }
+            },
+            {
+                "name": "Fallen Delivery",
+                "coordinates": {
+                    "x": "65",
+                    "y": "42",
+                    "z": "-4844"
+                }
+            },
+            {
+                "name": "Crop Failure",
+                "coordinates": {
+                    "x": "-1834",
+                    "y": "62",
+                    "z": "-5557"
+                }
+            },
+            {
+                "name": "The Dark Descent",
+                "coordinates": {
+                    "x": "242",
+                    "y": "47",
+                    "z": "-1931"
+                }
+            },
+            {
+                "name": "Tribal Aggression",
+                "coordinates": {
+                    "x": "1077",
+                    "y": "84",
+                    "z": "-1613"
+                }
+            },
+            {
+                "name": "Queen's Recruit",
+                "coordinates": {
+                    "x": "431",
+                    "y": "67",
+                    "z": "-1574"
+                }
+            },
+            {
+                "name": "Off the Rails",
+                "coordinates": {
+                    "x": "-1719",
+                    "y": "29",
+                    "z": "-567"
+                }
+            },
+            {
+                "name": "The Maiden Tower",
+                "coordinates": {
+                    "x": "-2166",
+                    "y": "56",
+                    "z": "-5122"
+                }
+            },
+            {
+                "name": "Solidarity of Steel",
+                "coordinates": {
+                    "x": "-1886",
+                    "y": "46",
+                    "z": "-526"
+                }
+            },
+            {
+                "name": "The House of Twain",
+                "coordinates": {
+                    "x": "12",
+                    "y": "76",
+                    "z": "-456"
+                }
+            },
+            {
+                "name": "Arachnids' Ascent",
+                "coordinates": {
+                    "x": "518",
+                    "y": "82",
+                    "z": "-1627"
+                }
+            },
+            {
+                "name": "Tower of Ascension",
+                "coordinates": {
+                    "x": "-350",
+                    "y": "14",
+                    "z": "-389"
+                }
+            },
+            {
+                "name": "Stable Story",
+                "coordinates": {
+                    "x": "561",
+                    "y": "67",
+                    "z": "-1598"
+                }
+            },
+            {
+                "name": "The Hero of Gavel",
+                "coordinates": {
+                    "x": "1030",
+                    "y": "112",
+                    "z": "-4545"
+                }
+            },
+            {
+                "name": "Overture to Despair",
+                "coordinates": {
+                    "x": "-1358",
+                    "y": "108",
+                    "z": "-1194"
+                }
+            },
+            {
+                "name": "A Hunter's Calling",
+                "coordinates": {
+                    "x": "1320",
+                    "y": "130",
+                    "z": "-420"
+                }
+            },
+            {
+                "name": "Lazarus Pit",
+                "coordinates": {
+                    "x": "-1025",
+                    "y": "47",
+                    "z": "-5302"
+                }
+            },
+            {
+                "name": "Fate of the Fallen",
+                "coordinates": {
+                    "x": "136",
+                    "y": "74",
+                    "z": "-688"
+                }
+            },
+            {
+                "name": "The Lost",
+                "coordinates": {
+                    "x": "447",
+                    "y": "28",
+                    "z": "-4461"
+                }
+            },
+            {
+                "name": "A Journey Further",
+                "coordinates": {
+                    "x": "977",
+                    "y": "75",
+                    "z": "-732"
+                }
+            },
+            {
+                "name": "Dwarves and Doguns Part I",
+                "coordinates": {
+                    "x": "1021",
+                    "y": "18",
+                    "z": "-5149"
+                }
+            },
+            {
+                "name": "Flight in Distress",
+                "coordinates": {
+                    "x": "-172",
+                    "y": "108",
+                    "z": "-4946"
+                }
+            },
+            {
+                "name": "Haven Antiquity",
+                "coordinates": {
+                    "x": "770",
+                    "y": "36",
+                    "z": "-3881"
+                }
+            },
+            {
+                "name": "The Scarred Springs",
+                "coordinates": {
+                    "x": "-1762",
+                    "y": "18",
+                    "z": "-1000"
+                }
+            },
+            {
+                "name": "Pit of the Dead",
+                "coordinates": {
+                    "x": "210",
+                    "y": "37",
+                    "z": "-2150"
+                }
+            },
+            {
+                "name": "The Corrupted Village",
+                "coordinates": {
+                    "x": "322",
+                    "y": "78",
+                    "z": "-1089"
+                }
+            },
+            {
+                "name": "Misadventure on the Sea",
+                "coordinates": {
+                    "x": "114",
+                    "y": "40",
+                    "z": "-2176"
+                }
+            },
+            {
+                "name": "Kingdom of Sand",
+                "coordinates": {
+                    "x": "1405",
+                    "y": "94",
+                    "z": "-1829"
+                }
+            },
+            {
+                "name": "The Bigger Picture",
+                "coordinates": {
+                    "x": "-205",
+                    "y": "41",
+                    "z": "-4308"
+                }
+            },
+            {
+                "name": "Celebrations in Smoke",
+                "coordinates": {
+                    "x": "-1310",
+                    "y": "46",
+                    "z": "-757"
+                }
+            },
+            {
+                "name": "Aldorei's Secret Part I",
+                "coordinates": {
+                    "x": "-462",
+                    "y": "132",
+                    "z": "-4460"
+                }
+            },
+            {
+                "name": "Cluck Cluck",
+                "coordinates": {
+                    "x": "-83",
+                    "y": "45",
+                    "z": "-2497"
+                }
+            },
+            {
+                "name": "Death Whistle",
+                "coordinates": {
+                    "x": "-2103",
+                    "y": "59",
+                    "z": "-5427"
+                }
+            },
+            {
+                "name": "General's Orders",
+                "coordinates": {
+                    "x": "118",
+                    "y": "49",
+                    "z": "-5435"
+                }
+            },
+            {
+                "name": "Canyon Condor",
+                "coordinates": {
+                    "x": "1352",
+                    "y": "30",
+                    "z": "-1301"
+                }
+            },
+            {
+                "name": "Grave Digger",
+                "coordinates": {
+                    "x": "476",
+                    "y": "67",
+                    "z": "-1624"
+                }
+            },
+            {
+                "name": "Reincarnation",
+                "coordinates": {
+                    "x": "372",
+                    "y": "54",
+                    "z": "-775"
+                }
+            },
+            {
+                "name": "A Journey Home",
+                "coordinates": {
+                    "x": "-1915",
+                    "y": "77",
+                    "z": "-1736"
+                }
+            },
+            {
+                "name": "Clearing the Camps",
+                "coordinates": {
+                    "x": "-1991",
+                    "y": "34",
+                    "z": "-4658"
+                }
+            },
+            {
+                "name": "The Feathers Fly Part I",
+                "coordinates": {
+                    "x": "-1731",
+                    "y": "134",
+                    "z": "-3267"
+                }
+            },
+            {
+                "name": "The Strong Survive",
+                "coordinates": {
+                    "x": "-1364",
+                    "y": "113",
+                    "z": "-1287"
+                }
+            },
+            {
+                "name": "Elemental Exercise",
+                "coordinates": {
+                    "x": "518",
+                    "y": "67",
+                    "z": "-1631"
+                }
+            },
+            {
+                "name": "Lost in the Jungle",
+                "coordinates": {
+                    "x": "-753",
+                    "y": "79",
+                    "z": "-663"
+                }
+            },
+            {
+                "name": "The Envoy Part II",
+                "coordinates": {
+                    "x": "-1571",
+                    "y": "68",
+                    "z": "-2876"
+                }
+            },
+            {
+                "name": "From the Mountains",
+                "coordinates": {
+                    "x": "-1366",
+                    "y": "42",
+                    "z": "-4543"
+                }
+            },
+            {
+                "name": "WynnExcavation Site D",
+                "coordinates": {
+                    "x": "-848",
+                    "y": "98",
+                    "z": "-789"
+                }
+            },
+            {
+                "name": "Poisoning the Pest",
+                "coordinates": {
+                    "x": "-748",
+                    "y": "67",
+                    "z": "-1663"
+                }
+            },
+            {
+                "name": "Point of No Return",
+                "coordinates": {
+                    "x": "1013",
+                    "y": "77",
+                    "z": "-676"
+                }
+            },
+            {
+                "name": "Memory Paranoia",
+                "coordinates": {
+                    "x": "-1192",
+                    "y": "46",
+                    "z": "-5198"
+                }
+            },
+            {
+                "name": "Maltic's Well",
+                "coordinates": {
+                    "x": "-568",
+                    "y": "48",
+                    "z": "-1922"
+                }
+            },
+            {
+                "name": "Desperate Metal",
+                "coordinates": {
+                    "x": "-1672",
+                    "y": "38",
+                    "z": "-2083"
+                }
+            },
+            {
+                "name": "Ensemble of Hope",
+                "coordinates": {
+                    "x": "-1370",
+                    "y": "109",
+                    "z": "-1248"
+                }
+            },
+            {
+                "name": "The Passage",
+                "coordinates": {
+                    "x": "-820",
+                    "y": "94",
+                    "z": "-1040"
+                }
+            },
+            {
+                "name": "The Cursed One",
+                "coordinates": {
+                    "x": "-2234",
+                    "y": "24",
+                    "z": "-1191"
+                }
+            },
+            {
+                "name": "Out of my Mind",
+                "coordinates": {
+                    "x": "-860",
+                    "y": "93",
+                    "z": "-961"
+                }
+            },
+            {
+                "name": "Master Piece",
+                "coordinates": {
+                    "x": "-1802",
+                    "y": "56",
+                    "z": "-5190"
+                }
+            },
+            {
+                "name": "The Envoy Part I",
+                "coordinates": {
+                    "x": "107",
+                    "y": "66",
+                    "z": "-3172"
+                }
+            },
+            {
+                "name": "Lexdale Witch Trials",
+                "coordinates": {
+                    "x": "-604",
+                    "y": "45",
+                    "z": "-5444"
+                }
+            },
+            {
+                "name": "Undersupply",
+                "coordinates": {
+                    "x": "-1778",
+                    "y": "13",
+                    "z": "-1239"
+                }
+            },
+            {
+                "name": "A Grave Mistake",
+                "coordinates": {
+                    "x": "158",
+                    "y": "79",
+                    "z": "-374"
+                }
+            },
+            {
+                "name": "An Iron Heart Part I",
+                "coordinates": {
+                    "x": "-1613",
+                    "y": "51",
+                    "z": "-4964"
+                }
+            },
+            {
+                "name": "Revelations in Fall",
+                "coordinates": {
+                    "x": "-2249",
+                    "y": "29",
+                    "z": "-1205"
+                }
+            },
+            {
+                "name": "From the Bottom",
+                "coordinates": {
+                    "x": "191",
+                    "y": "6",
+                    "z": "-5236"
+                }
+            }
+        ]
+    },
+    {
+        "type": "Raids",
+        "locations": [
+            {
+                "name": "The Canyon Colossus",
+                "coordinates": {
+                    "x": "662",
+                    "y": "49",
+                    "z": "-4448"
+                }
+            },
+            {
+                "name": "Nest of the Grootslangs",
+                "coordinates": {
+                    "x": "-1977",
+                    "y": "63",
+                    "z": "-5615"
+                }
+            },
+            {
+                "name": "The Nameless Anomaly",
+                "coordinates": {
+                    "x": "1193",
+                    "y": "64",
+                    "z": "-947"
+                }
+            },
+            {
+                "name": "The Wartorn Palace",
+                "coordinates": {
+                    "x": "-1625",
+                    "y": "140",
+                    "z": "-674"
+                }
+            },
+            {
+                "name": "Orphion's Nexus of Light",
+                "coordinates": {
+                    "x": "-732",
+                    "y": "100",
+                    "z": "-6499"
+                }
+            }
+        ]
+    },
+    {
+        "type": "Dungeons",
+        "locations": [
+            {
+                "name": "Decrepit Sewers",
+                "coordinates":{
+                    "x": -926,
+                    "y": 62,
+                    "z": -1888
+                }
+                
+            },
+            {
+                "name": "Infested Pit",
+                "coordinates": {
+                    "x": -199,
+                    "y": 53,
+                    "z": -1854
+                }
+            },
+            {
+                "name": "Timelost Sanctum",
+                "coordinates": {
+                    "x": -261,
+                    "y": 28,
+                    "z": -1063
+                }
+            },
+            {
+                "name": "Underworld Crypt",
+                "coordinates": {
+                    "x": 288,
+                    "y": 16,
+                    "z": -1952
+                }
+            },
+            {
+                "name": "Sand-Swept Tomb",
+                "coordinates": {
+                    "x": 1428,
+                    "y": 95,
+                    "z": -1830
+                }
+            },
+            {
+                "name": "Ice Barrows",
+                "coordinates": {
+                    "x": 134,
+                    "y": 84,
+                    "z": -639
+                }
+            },
+            {
+                "name": "Undergrowth Ruins",
+                "coordinates": {
+                    "x": -642,
+                    "y": 73,
+                    "z": -854
+                }
+            },
+            {
+                "name": "Galleon's Graveyard",
+                "coordinates": {
+                    "x": -590,
+                    "y": 39,
+                    "z": -3534
+                }
+            },
+            {
+                "name": "Fallen Factory",
+                "coordinates": {
+                    "x": -1655,
+                    "y": 88,
+                    "z": -2603
+                }
+            },
+            {
+                "name": "Eldritch Outlook",
+                "coordinates": {
+                    "x": 1285,
+                    "y": 87,
+                    "z": -753
+                }
+            },
+            {
+                "name": "The Forgery",
+                "coordinates": {
+                    "x": -853,
+                    "y": 125,
+                    "z": -4904
+                }
+            }
+        ]
     }
 ]
