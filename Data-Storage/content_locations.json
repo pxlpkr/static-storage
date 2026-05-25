@@ -1,6 +1,6 @@
 [
     {
-        "type": "Caves",
+        "type": "Cave",
         "locations": [
             {
                 "name": "Abandoned Steelworks",
@@ -1565,7 +1565,7 @@
         ]
     },
     {
-        "type": "Lootruns",
+        "type": "Lootrun Camp",
         "locations": [
             {
                 "name": "Canyon of the Lost Excursion (South)",
@@ -1626,7 +1626,7 @@
         ]
     },
     {
-        "type": "Quests",
+        "type": "Quest",
         "locations": [
             {
                 "name": "Royal Trials",
@@ -2583,7 +2583,7 @@
         ]
     },
     {
-        "type": "Raids",
+        "type": "Raid",
         "locations": [
             {
                 "name": "The Canyon Colossus",
@@ -2628,7 +2628,7 @@
         ]
     },
     {
-        "type": "Dungeons",
+        "type": "Dungeon",
         "locations": [
             {
                 "name": "Decrepit Sewers",
